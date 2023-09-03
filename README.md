@@ -1,9 +1,9 @@
  
-<p><em>Senior Analyst at <a href="https://www.remitly.com/">Remitly
-</a><img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="50"> 
+<p><em>Data Analyst at <a href="https://www.remitly.com/">Remitly
+</a>
 </em></p>
-
-# 💫 About Me:
+<p><img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="200"> </p>
+## 💫 About Me:
 🔭 A passionate guy, who loves riddles and enjoys a good movie.<br>😄 Pronouns: He/Him/His.<br>💬 Feel free to reach about: { 'Embedded systems', 'PostgreSQL', 'VueJS', 'FastAPI', 'Serverless Functions'}<br>⚡ Fun facts: {`I'm a Night 🦉`,  `I love Mexican food🌮`}
 
 ## 🌐 Socials:
